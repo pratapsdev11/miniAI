@@ -37,3 +37,16 @@ Feel free to explore the projects in this repository to understand and implement
 8. Project 8: [Loan status predictor](https://github.com/pratapsdev11/miniAI/tree/main/Loan%20status%20predictor)
 9. Project 9: [Mall Clustering](https://github.com/pratapsdev11/miniAI/tree/main/Mall%20Clustering)
 10. Project 10 :[wine quality](https://github.com/pratapsdev11/miniAI/tree/main/wine%20quality)
+
+# Dependencies
+
+The projects in this repository use the following libraries:
+
+- [scikit-learn](https://scikit-learn.org/stable/): `import sklearn` ![sklearn](https://img.shields.io/badge/scikit--learn-v0.24.2-blue)
+- [pandas](https://pandas.pydata.org/): `import pandas as pd` ![pandas](https://img.shields.io/badge/pandas-v1.3.3-blue)
+- [numpy](https://numpy.org/): `import numpy as np` ![numpy](https://img.shields.io/badge/numpy-v1.21.2-blue)
+- [streamlit](https://streamlit.io/): `import streamlit` ![streamlit](https://img.shields.io/badge/streamlit-v0.87.0-blue)
+- [matplotlib](https://matplotlib.org/): `import matplotlib.pyplot as plt` ![matplotlib](https://img.shields.io/badge/matplotlib-v3.4.3-blue)
+- [seaborn](https://seaborn.pydata.org/): `import seaborn as sns` ![seaborn](https://img.shields.io/badge/seaborn-v0.11.2-blue)
+
+Make sure to replace the version numbers with the versions you have used in your projects. The badges provide a visual representation of the library versions, and users can click on them to access the official documentation.
